@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Allan Latty</h1>
-<h3 align="center">A passionate full stack developer, veteran, and project manager.</h3>
+<h3 align="center">I am a software engineer, cybersecurity enthusiast, and project manager.</h3>
 
 - 🌱 I’m currently learning **REACT web development.**
 
 - 📝 I regularly write articles on [https://medium.com/@AGL745](https://medium.com/@AGL745)
 
-- 💬 Ask me about **web development and cybersecurity.**
+- 💬 Ask me about **web development, cybersecurity and Ada**
 
 - 📫 How to reach me **allan.g.latty@gmail.com**
 
