@@ -11,9 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/allan-latty-9427a441/](https://www.linkedin.com/in/allan-latty-9427a441/)
 
-<h3 align="left">Github Statistics:</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agl745&theme=onedark&border_radius=4.7)](https://git.io/streak-stats)
-
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=agl745&theme=onedark&border_radius=4.7"/></a>
 </p>
