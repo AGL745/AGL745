@@ -4,8 +4,8 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/AGL745/AGL745/blob/main/images/banner.png"><img src="https://github.com/agl745/agl745/raw/main/images/banner.png" alt="Allan Latty" style="max-width: 100%;"></a></p>
 </h1>
 
+<h3 align="center">Connect With Me</h3>
 <p align="center" dir="auto">
-
   <a href="https://www.linkedin.com/in/allan-latty-9427a441/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/8b798c504ba7519a1636af05c17f35eabf7e98d2f40860cb95aa79ed155e70fa/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b4544494e26636f6c6f723d353336423738267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=LINKEDIN&amp;color=536B78&amp;style=for-the-badge&amp;logo=linkedin&amp;logo-color=white" style="max-width: 100%;">
   </a>
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **REACT web development.**
+- 🌱 I’m currently working and learning **REACT web development.**
 
 - 📝 I regularly write articles on [https://medium.com/@AGL745](https://medium.com/@AGL745)
 
@@ -40,11 +40,9 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/allan-latty-9427a441/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/allan-latty-9427a441/" height="30" width="40" /></a>
-</p>
 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=agl745) 
 
 <h3 align="left"># 💻 Technologies::</h3>
 
