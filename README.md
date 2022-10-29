@@ -12,7 +12,7 @@
   <a href="https://twitter.com/allanlatty" rel="nofollow">
     <img src="https://camo.githubusercontent.com/d6c427410012a9f15bc3e8b442fb8ba1f59664a5c23c0ba05fb3b9ad2d230267/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5457495454455226636f6c6f723d323133613539267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=TWITTER&amp;color=213a59&amp;style=for-the-badge&amp;logo=twitter&amp;logo-color=white" style="max-width: 100%;">
   </a>
-  <a href="https://angel.co/u/xiaolgrant" rel="nofollow">
+  <a href="https://angel.co/u/allan-latty" rel="nofollow">
       <img src="https://camo.githubusercontent.com/c8738909811b346f7da2c7732325169f366b37d45e5266324de8e879445856bb/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d414e47454c204c49535426636f6c6f723d353336423738267374796c653d666f722d7468652d6261646765266c6f676f3d616e67656c6c697374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=ANGEL LIST&amp;color=536B78&amp;style=for-the-badge&amp;logo=angellist&amp;logo-color=white" style="max-width: 100%;">
   </a>
 </p>
@@ -58,7 +58,7 @@
 
 <!--     
     <!-- 
-  <a href="https://xiaolgrant.netlify.app" rel="nofollow">
+  <a href="https://allanlatty.netlify.app" rel="nofollow">
     <img src="https://camo.githubusercontent.com/7e1bfdee741d0cb589e79e8d4a809d656cd895eec9238f4cf7c5a90c0fff3b2a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d323133613539267374796c653d666f722d7468652d6261646765266c6f676f3d73697465706f696e74266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=213a59&amp;style=for-the-badge&amp;logo=sitepoint&amp;logo-color=white" style="max-width: 100%;">
   </a> 
     -->
