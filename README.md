@@ -14,6 +14,10 @@
 <h3 align="left">Github Statistics:</h3>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agl745&theme=onedark&border_radius=4.7)](https://git.io/streak-stats)
 
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=agl745&theme=onedark&border_radius=4.7"/></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/allan-latty-9427a441/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/allan-latty-9427a441/" height="30" width="40" /></a>
