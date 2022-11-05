@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently working and learning **REACT web development.**
+- 🌱 I’m currently working with and learning **REACT web development.**
 
 - 📝 I regularly write articles on [https://medium.com/@AGL745](https://medium.com/@AGL745)
 
