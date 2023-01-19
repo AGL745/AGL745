@@ -28,18 +28,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/allan-latty-9427a441/](https://www.linkedin.com/in/allan-latty-9427a441/)
 
 
-# 📊 GitHub Stats:
-<p align="center" dir="auto">
+# 📊 Coding Frequency:
 
-![](https://github-readme-stats.vercel.app/api?username=agl745&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=agl745&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agl745&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
-![GitHub metrics](https://metrics.lecoq.io/agl745) 
-
-</p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=agl745) 
+I aim to push code everyday. I accomplish this by completing coding challenges on codewars <a href="https://www.codewars.com/users/MrClutch745">- Visit Profile -</a> or testing out new technology builds.
 
 <h3 align="left"># 💻 Technologies::</h3>
 
